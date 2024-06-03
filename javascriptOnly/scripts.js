@@ -40,12 +40,29 @@ let age = 18;
 
 if(age >= 18) {
     console.log("je mag stemmen donderdag");
-} else {
+} else if(age == 17) {
+    console.log("je mag bijna stemmen!");
+}
+else {
     console.log("helaas, je mag niet stemmen");
+}
+
+// loops
+// waarom we loops nodig hebben
+console.log(1);
+console.log(2);
+console.log(3);
+console.log(4);
+console.log(5);
+
+// dubbele code voorkomen met for loops
+for(let i = 1; i <= 100; i++) {
+    if(i % 2 == 0) {
+        console.log("even getal: " + i);
+    }
 }
 
 
 
-// loops
 
 // functies
