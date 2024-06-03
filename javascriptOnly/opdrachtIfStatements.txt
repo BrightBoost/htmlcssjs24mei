@@ -1,0 +1,8 @@
+1. Maak een variabele nr1 aan
+2. Schrijf een if statement om te controleren of dit een positief getal is
+3. Als dat zo is, print "het is een positief getal, anders "het is een negatief getal""
+4. Bonus: Wat nou als het nul is?
+
+5. Maak een variable temperatuur aan
+6. Als de temperatuur boven de 25 is print "het is warm", anders print "het is koud""
+7. Bonus: kun je nog iets ertussen doen? bijv tussen 15 en 25: het is lekker?

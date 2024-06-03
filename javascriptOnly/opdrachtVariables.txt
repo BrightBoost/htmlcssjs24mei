@@ -1,7 +1,9 @@
 1. Maak een variable, geef die de tekst "Hello world"
 2. Geef die weer met console.log
+
 3. Maak twee variablen: kleur en gereedschap. Geef ze een waarde.
 4. Toon die met console.log in het volgende in deze vorm: Ik denk aan een *gereedschap* in de kleur *kleur*.
+
 5. Maak twee variablen: nr1 en nr2. Geef ze een waarde.
 6. Laat de som van deze twee variabelen in de console zien.
 7. Bonus: Kun je ze ook van elkaar aftrekken? En vermenigvuldigen? En delen?
